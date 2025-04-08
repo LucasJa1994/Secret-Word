@@ -2,7 +2,8 @@
 
 Um jogo simples e divertido onde o usuário tenta adivinhar uma palavra secreta com base em uma dica. Desenvolvido com **React.js**.
 
-![Preview do Jogo](./public/preview.png) <!-- Adicione uma captura de tela na pasta public com esse nome -->
+![Preview do Jogo]![image](https://github.com/user-attachments/assets/30636aa9-e3b3-44f1-bf4b-e1d30397d1f9)
+
 
 ---
 
